@@ -1,0 +1,7 @@
+D:\C#\16_02_2024_OnTapOOP\16_02_2024_OnTapOOP\bin\Debug\16_02_2024_OnTapOOP.exe.config
+D:\C#\16_02_2024_OnTapOOP\16_02_2024_OnTapOOP\bin\Debug\16_02_2024_OnTapOOP.exe
+D:\C#\16_02_2024_OnTapOOP\16_02_2024_OnTapOOP\bin\Debug\16_02_2024_OnTapOOP.pdb
+D:\C#\16_02_2024_OnTapOOP\16_02_2024_OnTapOOP\obj\Debug\16_02_2024_OnTapOOP.csproj.AssemblyReference.cache
+D:\C#\16_02_2024_OnTapOOP\16_02_2024_OnTapOOP\obj\Debug\16_02_2024_OnTapOOP.csproj.CoreCompileInputs.cache
+D:\C#\16_02_2024_OnTapOOP\16_02_2024_OnTapOOP\obj\Debug\16_02_2024_OnTapOOP.exe
+D:\C#\16_02_2024_OnTapOOP\16_02_2024_OnTapOOP\obj\Debug\16_02_2024_OnTapOOP.pdb
